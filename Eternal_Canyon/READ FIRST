@@ -1,0 +1,7 @@
+The levels will be notated the following way:
+There will be two numbers: (first number)_(second number)
+
+The levels will be split into 6 columns (Hopefully you see what I mean). The first number will signify which column the level appears in, starting from the left and starting at 1. 
+The second number will signify at which height the level appears relative to the other levels in the same column, with 1 being the highest, 2 being the middle, and 3 being the lowest. 
+
+Levels that take up one column by itself will have the second number omitted. 
